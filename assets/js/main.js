@@ -131,7 +131,7 @@
     'golang · python · aws',
     'payment infrastructure',
     'event-driven systems',
-    'Rs.50Cr+ a day, 99.9% up'
+    'systems that stay up'
   ];
   const tw = $('#typewriter');
 
